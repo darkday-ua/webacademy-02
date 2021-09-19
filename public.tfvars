@@ -1,8 +1,6 @@
 admin_public_ip = "0.0.0.0/0"
 ingress_ports = [{port:"22",desc:"SSH from anywhere"},{port:"80",desc:"http  from anywhere"},{port:"443",desc:"https  from anywhere"}]
 
-access_key_id=""
-access_key=""
 deploy_public_key_name=""
 region=""
 

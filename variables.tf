@@ -5,14 +5,6 @@ variable "ingress_ports" {
   type = list
 }
 
-variable "access_key_id" {
-    type=string
-  
-}
-variable "access_key" {
-    type=string
-  
-}
 
 variable "deploy_public_key_name" {
     type=string
